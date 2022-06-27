@@ -1,5 +1,5 @@
 # expensesTracker
-an expenses tracker
+an expenses tracker built with REACT
 
 How to start the programm:
 npx json-server --watch src/assets/db.json --port 4000
